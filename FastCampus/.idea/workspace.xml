@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94a4de2f-6f90-43ef-aa65-168c625c9ca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/androidTest/java/com/example/testcarouselslide/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/java/com/example/testcarouselslide/FragFirst.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/java/com/example/testcarouselslide/FragFourth.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/java/com/example/testcarouselslide/FragSecond.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/java/com/example/testcarouselslide/FragThird.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/java/com/example/testcarouselslide/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/java/com/example/testcarouselslide/MyAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/drawable/white_radius.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/layout/fragment_1p.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/layout/fragment_2p.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/layout/fragment_3p.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/layout/fragment_4p.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/app/src/test/java/com/example/testcarouselslide/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestCarouselSlide/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/androidTest/java/com/example/testmvvm/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/java/com/example/testmvvm/AppDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/java/com/example/testmvvm/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/java/com/example/testmvvm/MainViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/java/com/example/testmvvm/Repository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/java/com/example/testmvvm/UserDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/java/com/example/testmvvm/UserDialog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/java/com/example/testmvvm/UserEntity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/java/com/example/testmvvm/UserListAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/layout/recycler_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/layout/user_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/app/src/test/java/com/example/testmvvm/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestMVVM/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/androidTest/java/com/example/testwifiscan/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/java/com/example/testwifiscan/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/java/com/example/testwifiscan/WifiAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/java/com/example/testwifiscan/WifiDialog.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/layout/enter_pw_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/layout/popup_wifi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/layout/wifi_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/app/src/test/java/com/example/testwifiscan/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestWifiScan/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/sungjunkang/.android/avd/Pixel_3a_API_30_x86.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wXGfPaAq3NFhf0sZKy5RBFfzO2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1628597979695" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="FastCampus.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94a4de2f-6f90-43ef-aa65-168c625c9ca6" name="Default Changelist" comment="" />
+      <created>1628597623039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628597623039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
