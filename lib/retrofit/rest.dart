@@ -1,60 +1,36 @@
+import 'package:flutter/material.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:retrofit/retrofit.dart';
-import 'package:dio/dio.dart';
+import 'package:dio/dio.dart' hide Headers;
 
 
 part 'rest.g.dart';
 
 
-@RestApi(baseUrl: 'https://hacker-news.firebaseio.com/v0')
-abstract class RestClient {
+@RestApi(baseUrl: 'https://api.sophis-web.com')
+abstract class UserGetNetwork {
+
+  factory UserGetNetwork(Dio dio, {String baseUrl}) = _UserGetNetwork;
 
 
-  factory RestClient(Dio dio, {String baseUrl}) = _RestClient;
+  @Headers(<String, String>{'Content-Type': 'application/json'})
+  @PUT('/users/mypage/updateFcmAlert')
+  Future emailByPhoneNumber(@Body() Map<String, String> map);
 
-  @GET('/topstories.json')
-  Future<List<int>> getTopNews();
+
+  /// PUT 방식
+///  @Headers(<String, String>{'Content-Type': 'application/json'})
+//   @PUT('/users/mypage/updateFcmAlert')
+//   Future emailByPhoneNumber(@Body() Map<String, String> map);
+
+  /// POST 방식
+  // @Headers(<String, String>{'Content-Type': 'application/json'})
+  // @POST('/users/auth/findEmail')
+  // Future emailByPhoneNumber(@Body() Map<String, String> map);
+
+  /// GET 방식
+  // @GET('/users/mypage/selectUserinfo?user_id={userID}')
+  // Future emailByPhoneNumber(@Path('userID') String userID);
 
 }
-
-@JsonSerializable()
-class News {
-  int id;
-  String title;
-  String type;
-  String url;
-
-  News({
-    required this.id,
-    required this.title,
-    required this.type,
-    required this.url,
-  });
-
-  factory News.fromJson(Map<String, dynamic> json) => _$NewsFromJson(json);
-
-  Map<String, dynamic> toJson() => _$NewsToJson(this);
-}
-
-
-@JsonSerializable()
-class News2 {
-  int id;
-  String title;
-  String type;
-  String url;
-
-  News2({
-    required this.id,
-    required this.title,
-    required this.type,
-    required this.url,
-  });
-
-  factory News2.fromJson(Map<String, dynamic> json) => _$News2FromJson(json);
-
-  Map<String, dynamic> toJson() => _$News2ToJson(this);
-}
-
-
 

@@ -1,4 +1,9 @@
+import 'dart:developer';
+
+import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_retrofit2/retrofit/getphone_number.dart';
+import 'package:flutter_retrofit2/retrofit/rest.dart';
 
 void main() {
   runApp(const MyApp());
@@ -62,10 +67,16 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
+  GetTest getphoneNumber = GetTest();
+
+
   @override
   void initState() {
-   setState(() {});
     super.initState();
+  }
+
+  init(){
+    getphoneNumber.getPhoneNumber(31, 'greeting', false).then((value) => print(value.toString()));
   }
 
   @override
@@ -113,7 +124,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
+        onPressed: () => init(),
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
